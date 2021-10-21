@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Video_MediaPlayer_Ejemplo</string>
+    <string name="heading_of_activity">Video</string>
+    <string name="video">Video:</string>
+</resources>
